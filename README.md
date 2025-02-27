@@ -4,6 +4,8 @@
 
 [![Ansible AWX on Kubernetes](https://img.youtube.com/vi/FZcXjovCnOw/0.jpg)](https://www.youtube.com/watch?v=FZcXjovCnOw)  
 
+🔗 Check the blog post: https://devopstipstricks.com/installing-and-running-ansible-awx-on-kubernetes-a-step-by-step-guide/
+
 📌 Overview
 
 This repository contains all the necessary files and configurations to install and run Ansible AWX on Kubernetes using the AWX Operator.
